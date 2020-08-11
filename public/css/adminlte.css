@@ -20320,10 +20320,9 @@ html.maximized-card {
 
 .login-page,
 .register-page {
-  background-image: url("/public/picanime/670161.jpg");
   -ms-flex-align: center;
   align-items: center;
-  /*background: #bf97ff;*/
+  background: #7B68EE;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-direction: column;
